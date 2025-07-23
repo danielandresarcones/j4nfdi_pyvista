@@ -1,4 +1,4 @@
-# FEniCS DOLFINx in Jupyter4NFDI
+# Pyvista in Jupyter4NFDI
 
 Click on badge below to proceed:  
 <a href="https://hub.nfdi-jupyter.de/v2/gh/danielandresarcones/j4nfdi_pyvista/HEAD?labpath=notebooks%2Fcreate_poly.ipynb&system=JSC-Cloud&flavor=m1nfdi" target="_blank">
