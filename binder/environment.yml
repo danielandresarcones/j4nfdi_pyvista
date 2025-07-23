@@ -1,0 +1,13 @@
+name: pyvista
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - mpich
+  - pyvista[jupyter]
+  - panel
+  - ipywidgets
+  - pip
+pip:
+  - trame_jupyter_extension
+  - ipykernel
