@@ -1,13 +1,12 @@
-name: pyvista
+name: fenicsx-env
 channels:
   - conda-forge
 dependencies:
   - python=3.10
+  - fenics-dolfinx=0.6.0
   - mpich
-  - pyvista[jupyter]
-  - panel
-  - ipywidgets
+  - pyvista[all]
+  - scipy
   - pip
 pip:
   - trame_jupyter_extension
-  - ipykernel
